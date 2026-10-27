@@ -766,8 +766,8 @@
     {
       "kind": "app",
       "id": "skin-wardrobe",
-      "tag": "v0.6.7",
-      "sha256": "3a33406d646b398c743c67a3d72c0265c67eeb673028dfc51a5496f48dce5415"
+      "tag": "v0.6.8",
+      "sha256": "bc0ec5ec6252ff755e4c9c347473025f31c15d88285542fbfce5f66b5487869f"
     }
   ]
 }
